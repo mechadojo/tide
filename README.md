@@ -1,2 +1,2 @@
 # tide
-Easily develop data flow graph based robot applications.
+Easily develop event driven data flow graphs.
