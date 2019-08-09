@@ -1,7 +1,7 @@
 # Tide Chart Editor
 ## A Flutter/Dart web application for developing with Tide Charts
 
-Tide Chart Editor is available online at https://tidecharts.app 
+Tide Chart Editor is available online at [https://tidecharts.app](https://tidecharts.app)
 
 *Tide Chart Editor is built for Chrome and works best in App mode.  If you want to use the keyboard shortcuts related to tabs (Ctrl+N, Ctrl+W, Ctrl+Tab, ...) Chrome requires App mode. To start in App mode use the following menu "More tools...Create Shortcut...select Open as window".  After this setup the App can be accessed from the Apps icon on the shortcut bar or at [chrome://apps](chrome://apps)*
 
